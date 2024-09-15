@@ -1,4 +1,4 @@
-# Calculator
+# calculator
 
 Юнит-тестирование приложения Calculator с использованием pytest (версия 7.4.0).
 
